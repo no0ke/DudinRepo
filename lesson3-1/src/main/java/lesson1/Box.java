@@ -3,7 +3,7 @@ package lesson1;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-
+\\1
 public class Box<T extends Fruit> {
 
     private ArrayList<T> list;
