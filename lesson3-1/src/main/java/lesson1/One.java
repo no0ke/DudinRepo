@@ -2,7 +2,7 @@ package lesson1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+\\1
 public class One {
     static void swapObj(Object[] array, int firstIndex, int secondIndex) {
         Object oneVal = array[firstIndex];
